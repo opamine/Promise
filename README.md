@@ -1,4 +1,4 @@
-# Promise
+# promise
 基于 Promise/A+ 规范实现 Promise
 
 ```js
